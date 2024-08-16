@@ -1,0 +1,10 @@
+.todo-card {
+  margin: 10px auto;
+  max-width: 500px;
+  box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.todo-card-actions {
+  display: flex;
+  justify-content: flex-end;
+}
